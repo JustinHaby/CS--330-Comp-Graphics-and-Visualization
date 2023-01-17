@@ -1,4 +1,4 @@
-# CS--330-Comp-Graphics-and-Visualization #Justin James Haby
+# Comp-Graphics-and-Visualization #Justin James Haby
 
 How do I approach designing software?
 
